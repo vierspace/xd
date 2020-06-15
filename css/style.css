@@ -15,7 +15,7 @@ header {
   height: 400px;
   color: #fff;
   text-align: center;
-  background: url("head.jpg") no-repeat center center;
+  background: url("https://l1a0cw.dm.files.1drv.com/y4me6kf-05YEN3P9WmDPJ7MQtvBPTZtQU_OnYcr2DJbAf3ZOalN5_6trG5FKGA-w4kIlACV4RlkkxmtITKpN_fjWUUJVr82xWm6txdTBm_7doIQWplLXRDazGT9bYKKGT9z6dJC4KxemANPCagcKu9QS7lF9L6qqePYdJ_Z-SXdDN1QmFR3Lgbd7tNeCYvB1ecM8lhaLKuKIBxk9eTYd8onig?width=1024&height=502&cropmode=none") no-repeat center center;
   background-size: cover;
 }
 .headline:after {
