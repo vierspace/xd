@@ -156,7 +156,7 @@ a{
 .a-btn-symbol{
     position:absolute;
     left:20px;
-    background: url(img/arrow1.png);
+    background: url(arrow1.png);
     width: 25px; height: 30px;
     background-repeat: no-repeat;
 }
@@ -182,7 +182,7 @@ a{
     top:-30px;
     width:22px;
     height:22px;
-    background:transparent url(img/arrow2.png) no-repeat top left;
+    background:transparent url(arrow2.png) no-repeat top left;
     left:20px;
     opacity:0.6;
 }
